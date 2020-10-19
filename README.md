@@ -6,7 +6,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)&nbsp;
-![Markdown](https://img.shields.io/badge/-MarkDown-000?logo=markdown)\
+![Markdown](https://img.shields.io/badge/-MarkDown-000?logo=markdown)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-000?logo=php)\
 ![Java](https://img.shields.io/badge/-Java-000?logo=java)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-000?logo=powershell)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql)&nbsp;
@@ -17,17 +18,23 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jquery)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=vue.js)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-000?logo=sass)&nbsp;
 
 
 ### Favorite tool
 
 ![git](https://img.shields.io/badge/-git-000?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)&nbsp;
+![GoogleChrome](https://img.shields.io/badge/-GoogleChrome-000?logo=google-chrome)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?logo=jenkins)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)&nbsp;
 ![LightHouse](https://img.shields.io/badge/-LightHouse-000?logo=lighthouse)&nbsp;
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?logo=visual-studio-code)\
+![npm](https://img.shields.io/badge/-npm-000?logo=npm)&nbsp;
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?logo=visual-studio-code)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-000?logo=wordpress)\
 ![Apache Ant](https://img.shields.io/badge/-ApacheAnt-000?logo=apache-ant)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/-ApacheMaven-000?logo=apache-maven)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse-000?logo=eclipse)&nbsp;
 ![SonarQube](https://img.shields.io/badge/-SonarQube-000?logo=sonarqube)&nbsp;
 
 
