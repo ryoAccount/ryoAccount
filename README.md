@@ -1,7 +1,7 @@
 ## Hi, I'm ryo 👋
 
 ### Good programming language
-
+![HTML](https://img.shields.io/badge/-HTML5-000?logo=HTML5)&nbsp;
 
 ### Favorite framework
 
@@ -12,8 +12,8 @@
 ### Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryoAccount&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryoAccount&layout=compact&theme=react"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=ryoAccount&theme=react&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryoAccount&layout=compact&theme=react"/>
 </p>
 
 
