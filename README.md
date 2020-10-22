@@ -50,8 +50,6 @@ I have HTML5 Professional Lv1 / Lv2 certification and want to be Web Director in
 </p>
 
 
-### SNS
-
 
 
 <!--
