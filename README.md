@@ -1,5 +1,9 @@
 ## Hi, I'm ryo 👋
 
+Hello, I'm Frontend Engineer & Programmer.
+Mainly good at development with Vue.js or vanilla JavaScript.
+I have HTML5 Professional Lv1 / Lv2 certification and want to be Web Director in the future.
+
 ### Good programming language
 
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)&nbsp;
