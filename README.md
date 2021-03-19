@@ -10,20 +10,20 @@ I have HTML5 Professional Lv1 / Lv2 certification and want to be Web Director in
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)&nbsp;
-![Markdown](https://img.shields.io/badge/-MarkDown-000?logo=markdown)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-000?logo=php)\
 ![Java](https://img.shields.io/badge/-Java-000?logo=java)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-000?logo=powershell)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql)&nbsp;
+![Markdown](https://img.shields.io/badge/-MarkDown-000?logo=markdown)&nbsp;
 
 ### Favorite framework
 
-![BootStrap](https://img.shields.io/badge/-BootStrap-000?logo=bootstrap)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jquery)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=vue.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)&nbsp;
+![BootStrap](https://img.shields.io/badge/-BootStrap-000?logo=bootstrap)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-000?logo=sass)&nbsp;
-
+![Laravel](https://img.shields.io/badge/-Laravel-000?logo=laravel)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jquery)&nbsp;
 
 ### Favorite tool
 
@@ -34,6 +34,7 @@ I have HTML5 Professional Lv1 / Lv2 certification and want to be Web Director in
 ![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)&nbsp;
 ![LightHouse](https://img.shields.io/badge/-LightHouse-000?logo=lighthouse)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-000?logo=npm)&nbsp;
+![yarn](https://img.shields.io/badge/-yarn-000?logo=yarn)&nbsp;
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?logo=visual-studio-code)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-000?logo=wordpress)\
 ![Apache Ant](https://img.shields.io/badge/-ApacheAnt-000?logo=apache-ant)&nbsp;
