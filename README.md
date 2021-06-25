@@ -2,7 +2,9 @@
 
 Hello, I'm Frontend Engineer & Programmer. \
 Mainly good at development with Vue.js or vanilla JavaScript. \
-I have HTML5 Professional Lv1 / Lv2 certification and want to be Web Director in the future.
+I have HTML5 Professional Lv1 / Lv2 certification. \
+As an engineer, I am good at interacting and coordinating with customers. \
+I want to become an engineer who can create a customer's business from an engineer who fulfills the customer's requirements.
 
 ### Good programming language
 
@@ -20,6 +22,7 @@ I have HTML5 Professional Lv1 / Lv2 certification and want to be Web Director in
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?logo=nuxt.js)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-000?logo=bootstrap)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-000?logo=sass)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-000?logo=laravel)&nbsp;
@@ -30,6 +33,7 @@ I have HTML5 Professional Lv1 / Lv2 certification and want to be Web Director in
 ![git](https://img.shields.io/badge/-git-000?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)&nbsp;
 ![GoogleChrome](https://img.shields.io/badge/-GoogleChrome-000?logo=google-chrome)&nbsp;
+![GoogleAnalytics](https://img.shields.io/badge/-GoogleAnalytics-000?logo=google-analytics)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?logo=jenkins)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)&nbsp;
 ![LightHouse](https://img.shields.io/badge/-LightHouse-000?logo=lighthouse)&nbsp;
