@@ -16,7 +16,6 @@ I want to become an engineer who can create a customer's business from an engine
 ![Java](https://img.shields.io/badge/-Java-000?logo=java)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-000?logo=powershell)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql)&nbsp;
-![Markdown](https://img.shields.io/badge/-MarkDown-000?logo=markdown)&nbsp;
 
 ### Good framework
 
@@ -24,12 +23,15 @@ I want to become an engineer who can create a customer's business from an engine
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?logo=nuxt.js)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-000?logo=bootstrap)&nbsp;
+![Less](https://img.shields.io/badge/-Less-000?logo=less)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-000?logo=sass)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-000?logo=laravel)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jquery)&nbsp;
 
 ### Good tool
 
+![DataDog](https://img.shields.io/badge/-DataDog-000?logo=datadog)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)&nbsp;
 ![git](https://img.shields.io/badge/-git-000?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)&nbsp;
 ![GoogleChrome](https://img.shields.io/badge/-GoogleChrome-000?logo=google-chrome)&nbsp;
@@ -39,6 +41,7 @@ I want to become an engineer who can create a customer's business from an engine
 ![LightHouse](https://img.shields.io/badge/-LightHouse-000?logo=lighthouse)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-000?logo=npm)&nbsp;
 ![yarn](https://img.shields.io/badge/-yarn-000?logo=yarn)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-000?logo=slack)&nbsp;
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?logo=visual-studio-code)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-000?logo=wordpress)\
 ![Apache Ant](https://img.shields.io/badge/-ApacheAnt-000?logo=apache-ant)&nbsp;
