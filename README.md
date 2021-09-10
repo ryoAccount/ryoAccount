@@ -18,7 +18,7 @@ I want to become an engineer who can create a customer's business from an engine
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql)&nbsp;
 ![Markdown](https://img.shields.io/badge/-MarkDown-000?logo=markdown)&nbsp;
 
-### Favorite framework
+### Good framework
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)&nbsp;
@@ -28,7 +28,7 @@ I want to become an engineer who can create a customer's business from an engine
 ![Laravel](https://img.shields.io/badge/-Laravel-000?logo=laravel)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jquery)&nbsp;
 
-### Favorite tool
+### Good tool
 
 ![git](https://img.shields.io/badge/-git-000?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)&nbsp;
