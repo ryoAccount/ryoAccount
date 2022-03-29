@@ -1,9 +1,10 @@
 ## Hi, I'm ryo 👋
 
-Hello, I'm Frontend Engineer & Programmer. \
-Mainly good at development with Vue.js or vanilla JavaScript. \
+Hello, I'm Backend & Frontend Engineer & Programmer. \
+My favorite languages are javascript, typescript and PHP. Also, my favorite frameworks are Vue.js and Laravel. \
 I have HTML5 Professional Lv1 / Lv2 certification. \
 As an engineer, I am good at interacting and coordinating with customers. \
+And I have one side as a Scrum Master and a product owner. \
 I want to become an engineer who can create a customer's business from an engineer who fulfills the customer's requirements.
 
 ### Good programming language
