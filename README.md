@@ -42,7 +42,7 @@ I want to become an engineer who can create a customer's business from an engine
 ### Analytics
 
 <p align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=ryoAccount&count_private=true&show_icons=true&theme=radical"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=ryoAccount&count_private=true&show_icons=true&theme=react"/>
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryoAccount&layout=compact&theme=react"/>
 </p>
 
