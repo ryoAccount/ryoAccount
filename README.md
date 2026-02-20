@@ -1,10 +1,10 @@
 ## Hi! 👋
 
-👨 Hello, I'm Ryo. I'm working as a Security Engineer. \
-💻 My favorite frameworks are Nuxt and Next because I used to work as a Frontend Engineer, but I'm currently focusing on Cyber Security Industories. \
-📚 I had HTML5 Professional Lv1 / Lv2 certification / GAIQ(Google Analytics Individual Qualification) before, but I'm aiming to obtain CISSP and CCSP. \
-💪 I am good at DDD, Thereat Modering, OIDC/OAuth, Risk Assessment, Vulnerability Management and Cloud Security. \
-🌞 I want to become a CISO who able to develop a security strategy for a long term and prevent our organization from a varity of cyber attacks.
+- 👨 Hello, I'm Ryo. I'm working as a Security Engineer. \
+- 💻 My favorite frameworks are Nuxt and Next because I used to work as a Frontend Engineer, but I'm currently focusing on Cyber Security Industories. \
+- 📚 I had HTML5 Professional Lv1 / Lv2 certification / GAIQ(Google Analytics Individual Qualification) before, but I'm aiming to obtain CISSP and CCSP. \
+- 💪 I am good at DDD, Thereat Modering, OIDC/OAuth, Risk Assessment, Vulnerability Management and Cloud Security. \
+- 🌞 I want to become a CISO who able to develop a security strategy for a long term and prevent our organization from a varity of cyber attacks.
 
 ### programming
 
