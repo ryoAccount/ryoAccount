@@ -1,10 +1,10 @@
 ## Hi! 👋
 
 - 👨 Hello, I'm Ryo. I'm working as a Security Engineer + Consultant. \
-- 💻 I'm currently focusing on Cyber Security Industories, but My favorite frameworks are Nuxt and Next because I used to work as a Frontend Engineer. \
-- 📚 I had CompTIA Security+, and I'm aiming to obtain CISSP and CCSP. \
-- 💪 I am good at Cloud Security, Thereat Modering, OIDC/OAuth, Risk Assessment and Vulnerability Management. \
-- 🌞 I want to become a CISO who able to develop a security strategy for a long term and prevent our organization from a varity of cyber attacks.
+- 💻 I'm currently focusing on Cyber Security Industries, and then My favorite frameworks are Nuxt and Next because I used to work as a Frontend Engineer. \
+- 📚 I had Certificate of CompTIA Security+ and CISSP, I'm aiming to obtain CCSP. \
+- 💪 I am good at Cloud Security(AWS), Thereat Modering, OIDC/OAuth, Risk Assessment and Vulnerability Management. \
+- 🌞 I want to become a security manager like CISO who able to develop a security strategy for a long term and prevent our organization from a variety of cyber attacks.
 
 ### programming
 
@@ -18,10 +18,8 @@
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000?logo=nuxt)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-000?logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)&nbsp;
-![Less](https://img.shields.io/badge/-Less-000?logo=less)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-000?logo=sass)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-000?logo=terraform)&nbsp;
-
 
 ### tool
 
@@ -31,14 +29,17 @@
 ![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)&nbsp;
 ![LightHouse](https://img.shields.io/badge/-LightHouse-000?logo=lighthouse)&nbsp;
 ![New Relic](https://img.shields.io/badge/-NewRelic-000?logo=newrelic)&nbsp;
+![Data Dog](https://img.shields.io/badge/-Datadog-000?logo=datadog)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-KaliLinux-000?logo=kalilinux)&nbsp;
 
 
 ### Analytics
 
 <p align="center">
-  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryoAccount&layout=compact&theme=react"/>
+  <img height="200px" src="https://github-stats-extended.vercel.app/api?username=ryoAccount&show_icons=true&theme=react"/>
+  <img height="200px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ryoAccount&theme=react"/>
 </p>
+
 
 
 
